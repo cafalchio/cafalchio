@@ -2,8 +2,7 @@
 
 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-I'm **Matheus**, a passionate **Python Developer** 🐍, currently diving into the world of **Rust** 🦀. When I'm not coding, you might find me thinking about brain waves 🧠—I have a PhD in **Neuroscience**!
-
+I'm **Matheus**, a passionate **Python Developer** 🐍, currently diving into the world of **Rust** 🦀.
 ## My Journey:
 
 🔬 **PhD in Neuroscience**: Spent my time decoding the brain, but realized coding is my true passion.
