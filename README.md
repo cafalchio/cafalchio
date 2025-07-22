@@ -1,5 +1,5 @@
 ## Hello there! 👋
-“Code is like humor. When you have to explain it, it’s bad.” — Cory House
+“Code is like humor. When you have to explain it, it’s bad.” 
 
 
 Matheus here, a passionate **Python Developer**, currently diving into the world of **Rust** 🦀.
@@ -8,9 +8,9 @@ Matheus here, a passionate **Python Developer**, currently diving into the world
 
 **PhD in Neuroscience**: Spent my time decoding the brain waves and learning how to program meanwhile.
 
-**Python**: From data analysis to building full-stack apps, Python is my trusty companion. 🐍
+**Python**: From data analysis to building full-stack apps, Python is my trusty companion. 
 
-**Rust**: Currently learning this powerful language. Still getting used to its sintaxe… but I’ll get there! 😉
+**Rust**: Currently learning this powerful language. Still getting used to its sintaxe… but I’ll get there! 
 
 **React/Typescript**: I use react when I need to build responsive websites and for experimenting with ![Tauri](https://v2.tauri.app/) 
 
