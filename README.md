@@ -1,8 +1,6 @@
-## Hello there! 👋
-“Code is like humor. When you have to explain it, it’s bad.” 
+## Hello there!
 
-
-Matheus here, a passionate **Python Developer**, currently diving into the world of **Rust** 🦀.
+Matheus here, a passionate software developer, currently working as a **Python Developer**.
 
 ## How I got here:
 
@@ -12,7 +10,7 @@ Matheus here, a passionate **Python Developer**, currently diving into the world
 
 **Rust**: Currently learning this powerful language. Still getting used to its sintaxe… but I’ll get there! 
 
-**React/Typescript**: I use react when I need to build responsive websites and for experimenting with ![Tauri](https://v2.tauri.app/) 
+**React/Typescript**: I use react when I need to build responsive websites and for experimenting with ![Tauri](https://v2.tauri.app/)
 
 **Tauri**: if you never heard about it, please check it out, it's magical! ✨
 
