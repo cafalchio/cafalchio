@@ -13,7 +13,3 @@ Matheus here, a passionate software developer, currently working as a **Python D
 **React/Typescript**: I use react and typescript when building responsive websites. Also for experimenting with ![Tauri](https://v2.tauri.app/)
 
 **Tauri**: if you never heard about it, please check it out, it's magical! ✨
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafalchio&hide=Jupyter%20Notebook,html,css,php)
