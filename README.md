@@ -1,6 +1,6 @@
 ## Hello there!
 
-Matheus here, a passionate software developer, currently working as a **Python Developer**.
+Matheus here, a passionate software developer, currently working as a **Python / Rust Developer**.
 
 ## How I got here:
 
