@@ -10,7 +10,7 @@ Matheus here, a passionate software developer, currently working as a **Python D
 
 **Rust**: Currently learning this powerful language. Still getting used to its sintaxe… but I’ll get there! 
 
-**React/Typescript**: I use react when I need to build responsive websites and for experimenting with ![Tauri](https://v2.tauri.app/)
+**React/Typescript**: I use react and typescript when building responsive websites. Also for experimenting with ![Tauri](https://v2.tauri.app/)
 
 **Tauri**: if you never heard about it, please check it out, it's magical! ✨
 
