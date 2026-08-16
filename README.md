@@ -1,15 +1,17 @@
-## Hello there!
+## Hello there 👋
 
-Matheus here, a passionate software developer, currently working as a **Python / Rust Developer**.
+I'm Matheus, a Software Engineer with a PhD in Neuroscience, currently working on AI infrastructure and backend systems using **Python and Rust**.
 
-## How I got here:
+### What I work with
 
-**PhD in Neuroscience**: Spent my time decoding the brain waves and learning how to program meanwhile.
+- **Python** — backend services, APIs, data processing, developer tooling, and large-scale production systems.
+- **Rust** — performance-critical components and Python/Rust integrations.
+- **AI Infrastructure** — Model Context Protocol (MCP), plugin systems, gateways, and developer tooling.
+- **React / TypeScript** — frontend interfaces and internal tools.
+- **Tauri** — desktop applications combining Rust and web technologies.
 
-**Python**: From data analysis to building full-stack apps, Python is my trusty companion. 
+### Background
 
-**Rust**: Currently learning this powerful language. Still getting used to its sintaxe… but I’ll get there! 
+Before moving into software engineering, I worked in neuroscience research, where I used Python extensively for data analysis, signal processing, and scientific computing.
 
-**React/Typescript**: I use react and typescript when building responsive websites. Also for experimenting with ![Tauri](https://v2.tauri.app/)
-
-**Tauri**: if you never heard about it, please check it out, it's magical! ✨
+Today, I focus on building reliable, extensible, and high-performance software, with a particular interest in AI infrastructure, backend engineering, and open-source development.
